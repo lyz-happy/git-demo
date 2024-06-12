@@ -24,4 +24,4 @@ hello guigu hello git
 hello guigu hello git
 hello guigu hello git
 hello guigu hello git
-hello guigu hello git testmerge
+hello guigu hello git testmergefinal2
